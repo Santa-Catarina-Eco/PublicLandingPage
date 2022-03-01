@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.bee95185.js",
+    "main.js": "/static/js/main.e3aa3b05.js",
     "static/media/PhoneBig.png": "/static/media/PhoneBig.8d590728b53580cfa57a.png",
     "static/media/PhoneSmall.png": "/static/media/PhoneSmall.f644225b34ba0bbd5b80.png",
     "static/media/AppleNew.png": "/static/media/AppleNew.887a10aa96689f264930.png",
     "static/media/SCEcoLogo.svg": "/static/media/SCEcoLogo.1f0e7cfcaf799520d27b09db91805c83.svg",
     "static/media/GoogleNew.png": "/static/media/GoogleNew.2e69bb44338ece006d2e.png",
     "index.html": "/index.html",
-    "main.bee95185.js.map": "/static/js/main.bee95185.js.map"
+    "main.e3aa3b05.js.map": "/static/js/main.e3aa3b05.js.map"
   },
   "entrypoints": [
-    "static/js/main.bee95185.js"
+    "static/js/main.e3aa3b05.js"
   ]
 }
